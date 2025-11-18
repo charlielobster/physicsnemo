@@ -1,0 +1,6 @@
+artifact_location: file:///workspace/physicsnemo/examples/cfd/darcy_nested_fnos/mlruns/586119172838845416
+creation_time: 1763278399675
+experiment_id: '586119172838845416'
+last_update_time: 1763278399675
+lifecycle_stage: active
+name: 'Nested FNO, model: ref0'

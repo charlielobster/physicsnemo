@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/physicsnemo/examples/cfd/darcy_nested_fnos/mlruns/405618127941832983/087fece4c9c24f4aa421e26de53fcc15/artifacts
+end_time: 1763283206148
+entry_point_name: ''
+experiment_id: '405618127941832983'
+lifecycle_stage: active
+run_id: 087fece4c9c24f4aa421e26de53fcc15
+run_name: 'Nested FNO training, model: ref1'
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763281015271
+status: 3
+tags: []
+user_id: Gretchen Ross
